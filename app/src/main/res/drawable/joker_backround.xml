@@ -5,9 +5,9 @@
     <shape
         android:shape="oval">
 
-        <solid android:color="@android:color/transparent" />
+        <solid android:color="#77A19A9A" />
         <stroke android:color="@color/red"
-            android:width="2dp">
+            android:width="3dp">
 
         </stroke>
 
@@ -15,6 +15,7 @@
     </item>
     <item
         android:drawable="@drawable/ic_baseline_close_24"
+
 
 
         >

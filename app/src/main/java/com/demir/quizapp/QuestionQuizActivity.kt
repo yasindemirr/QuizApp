@@ -160,7 +160,7 @@ class QuestionQuizActivity : AppCompatActivity(), View.OnClickListener {
                 //val aa=options.toMutableList()
               //  aa.remove(options[correctAnswer])
               // val bb= aa.shuffled().take(2)
-                binding.ivJoker.background=ContextCompat.getDrawable(this,R.drawable.joker_backround)
+                binding.canceled.visibility=View.VISIBLE
 
 
 
